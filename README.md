@@ -1,16 +1,24 @@
-## Hi there 👋
+# Human-with-AI
 
-<!--
-**Kawai-with-AI/Kawai-with-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## この場所について
+ここは、AIと対話しながら思考・設計・問題解決を行うための記録場所です。
+ 
+AIに答えを求めるだけではなく  
+・考えを整理する  
+・矛盾を発見する  
+・設計を深める  
+・新しい視点を得る  
+ための相棒として活用しています。
 
-Here are some ideas to get you started:
+## 基本思想
+- まず問題をお互いに理解する  
+- いきなり解決策を決めない（話し合いながら）  
+- 決定・否決事項には理由を残す  
+- 矛盾（衝突）が見つかったら見直す
+- 雑談的な内容も残す（パーソナリティー構成材料）    
+- AIは思考の補助輪であり、最終判断は人が行う
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## このリポジトリの目的
+新しいチャットや新しいAIになっても、考え方や設計思想を引き継ぎながら発展できる形を模索すること。  
+・核となる思想と設計は整理済み。  
+・現在は実運用を見据えた検証とブラッシュアップを進めています。
